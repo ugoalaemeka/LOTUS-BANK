@@ -1,0 +1,129 @@
+body{
+    width: 100%;
+}
+* {
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-tt-commons);
+}
+.main-section{
+    height: 100vh;
+}
+.main-icon{
+    margin-left: 3rem;
+}
+.sub-section1{
+    width: 94vw !important;
+}
+.sub-section2{
+    width: 92vw !important;
+}
+p{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-tt-commons);
+    font-size: 0.8rem;
+}
+.request{
+    margin-right: 27rem;
+}
+.account{
+    margin-right: 5rem;
+    border-bottom: 2px solid #1E0B89;
+}
+.acc{
+    color: #1E0B89 !important;
+}
+.search1{
+    background-color:#F4F4F4 !important;
+    display: inline;
+    font-size: 0.8rem !important;
+    width: 10rem !important;
+}
+.tab{
+    border: 1px black;
+    height: 90vh;
+    margin-top: -6rem;
+}
+.tab1{
+    border: 1px solid #E8E7E7;
+    height: 2.5rem;
+    display: flex;
+}
+.tab2{
+    height: 2.5rem;
+    display: flex;
+}
+.check{
+    margin: auto;
+    font-size: 10px;
+}
+.check1{
+    margin: auto;
+    font-size: 0.7rem;
+}
+.year{
+    font-weight: bold;
+}
+.check2{
+    margin: auto;
+    font-size: 0.7rem;
+    border-left: 1px solid #E8E7E7;
+}
+.button{
+    width: 4.3rem;
+    font-size: 0.7rem !important;
+    height: 1.7rem;
+    background-color: #48D33926 !important;
+}
+.button2{
+    width: 4.3rem;
+    font-size: 0.7rem !important;
+    height: 1.7rem;
+    background-color: #FF8A1526 !important;
+}
+.dot{
+    margin-left: 2rem;
+}
+.cont{
+    margin-left: 68rem;
+}
+.next{
+    font-weight: bold;
+}
+.menu1{
+    box-shadow: 0px 10px 50px #0000000D;
+    opacity: 1;
+    width: 100vw;
+    position: fixed;
+    margin-left: -2.3rem;
+}
+.geo{
+    width: 1.5rem;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #B7B7B7;
+}
+.side1{
+    height: 100vh;
+    box-shadow: #0000000D;
+    border: 1px solid #0000000D;
+}
+.side2{
+    list-style: none;
+    color: black;
+    padding: 1.5rem
+    
+}
